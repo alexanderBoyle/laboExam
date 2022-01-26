@@ -1,4 +1,4 @@
 *.tmp
-src/*/
-!*.html
+src/*
+!contact.html
 !*.css
